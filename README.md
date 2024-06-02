@@ -1,5 +1,3 @@
-# android-hid-app
-
 ## Redeemers_FAZ  App
 
 **Welcome to Redeemers_FAZ, an Android application for managing decks of shortcuts!**
@@ -23,4 +21,5 @@ Note : `Pity, didn't have enough time to add cursor sender to use the phone as a
 
 2. **Open in Android Studio: Open the android-hid directory in Android Studio.**
 3. **Build and Run: Build and run the app on an Android device or emulator.**
+
 
